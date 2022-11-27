@@ -3,9 +3,7 @@
     android:shape="rectangle"
     >
     <solid android:color="@color/BlueViolet"/>
-<!--    <gradient android:centerColor="@color/BlueViolet"/>-->
-
-
+<gradient android:centerColor="@color/BlueViolet"/>
 
     <corners
         android:topLeftRadius="400dp"
