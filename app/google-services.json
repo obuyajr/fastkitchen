@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "157224030977",
+    "project_id": "fast-kitchen",
+    "storage_bucket": "fast-kitchen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157224030977:android:4ce2f79af5eab4d1c5c100",
+        "android_client_info": {
+          "package_name": "com.example.fastkitchen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157224030977-7tdql14hra8ho3kuvbajk6qqom9o1m8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1kSmzM_97RjFjkGGD7pyfMJgQ4CEsb-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157224030977-7tdql14hra8ho3kuvbajk6qqom9o1m8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
